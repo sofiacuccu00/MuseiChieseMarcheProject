@@ -1,0 +1,54 @@
+﻿@model List<MuseiChiese.Modelli.Modelli.ElementoOsm>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<h2>Musei e Chiese – Regione Marche</h2>
+
+<form method="get" class="mb-3">
+    <label>
+        Nome:
+        <input type="text" name="nome" value="@ViewBag.Nome" class="form-control" />
+    </label>
+    <label>
+        Comune:
+        <input type="text" name="comune" value="@ViewBag.Comune" class="form-control" />
+    </label>
+    <button type="submit" class="btn btn-primary mt-2">Cerca</button>
+</form>
+
+<div id="mappa" style="height: 600px; margin-bottom: 20px;"></div>
+
+<script>
+    var mappa = L.map('mappa').setView([43.5, 13.25], 8);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(mappa);
+
+    var punti = @Html.Raw(Json.Serialize(Model));
+
+    punti.forEach(function(punto) {
+        if (punto.latitudine && punto.longitudine) {
+            var popup = "<strong>" + (punto.nome || "[Senza nome]") + "</strong><br>" +
+                        (punto.comune || "") + "<br>" +
+                        punto.tipoElemento;
+            L.marker([punto.latitudine, punto.longitudine])
+             .addTo(mappa)
+             .bindPopup(popup);
+        }
+    });
+</script>
+
+@if (Model.Count == 0)
+{
+    <p>Nessun risultato trovato.</p>
+}
+else
+{
+    <ul>
+        @foreach (var punto in Model)
+        {
+            <li>@punto.Nome – @punto.Comune (@punto.TipoElemento)</li>
+        }
+    </ul>
+}
