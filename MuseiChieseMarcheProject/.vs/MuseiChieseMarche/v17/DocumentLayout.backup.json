@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\",
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\mcmsoap\\serviziosoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\mcmsoap\\serviziosoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\controllers\\punticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\controllers\\punticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiese.modelli\\funzioniinterrogazioniserviziosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|solutionrelative:museichiese.modelli\\funzioniinterrogazioniserviziosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiese.modelli\\modelli\\elementoosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|solutionrelative:museichiese.modelli\\modelli\\elementoosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\museichiesemarche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\museichiesemarche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiesemarche\\views\\punti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\views\\punti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\views\\punti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\source\\repos\\museichiesemarcheproject\\museichiese.modelli\\museichiese.modelli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\mcmsoap\\serviziosoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\mcmsoap\\serviziosoap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\controllers\\punticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\controllers\\punticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiese.modelli\\funzioniinterrogazioniserviziosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|solutionrelative:museichiese.modelli\\funzioniinterrogazioniserviziosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiese.modelli\\modelli\\elementoosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|solutionrelative:museichiese.modelli\\modelli\\elementoosm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\museichiesemarche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\museichiesemarche.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiesemarche\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A682254D-C673-4ABD-8B53-818860B7AA01}|MuseiChieseMarche\\MuseiChieseMarche.csproj|solutionrelative:museichiesemarche\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|c:\\users\\sofia\\documents\\github\\museichiesemarcheproject\\museichiesemarcheproject\\museichiese.modelli\\museichiese.modelli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A7C60553-3B9B-4CB8-8C73-61134005AB79}|MuseiChiese.modelli\\MuseiChiese.Modelli.csproj|solutionrelative:museichiese.modelli\\museichiese.modelli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -62,86 +62,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "MuseiChieseMarche\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "MuseiChieseMarche\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T16:43:28.353Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ServizioSoap.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
               "RelativeDocumentMoniker": "MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
               "RelativeToolTip": "MuseiChieseMarche\\MCMSOAP\\ServizioSoap.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T16:00:20.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MuseiChieseMarche\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T15:36:33.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MuseiChieseMarche\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MuseiChieseMarche\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T07:01:07.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FunzioniInterrogazioniServiziOsm.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
               "RelativeDocumentMoniker": "MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
               "RelativeToolTip": "MuseiChiese.Modelli\\FunzioniInterrogazioniServiziOsm.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T21:33:57.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PuntiController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\PuntiController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\PuntiController.cs",
               "RelativeDocumentMoniker": "MuseiChieseMarche\\Controllers\\PuntiController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\PuntiController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Controllers\\PuntiController.cs",
               "RelativeToolTip": "MuseiChieseMarche\\Controllers\\PuntiController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T07:48:28.634Z",
               "EditorCaption": ""
@@ -150,11 +124,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Program.cs",
               "RelativeDocumentMoniker": "MuseiChieseMarche\\Program.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Program.cs",
               "RelativeToolTip": "MuseiChieseMarche\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T08:50:56.104Z",
               "EditorCaption": ""
@@ -162,80 +136,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ElementoOsm.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
-              "RelativeDocumentMoniker": "MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
-              "RelativeToolTip": "MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T21:47:37.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MuseiChieseMarche.csproj",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
-              "RelativeDocumentMoniker": "MuseiChieseMarche\\MuseiChieseMarche.csproj",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
-              "RelativeToolTip": "MuseiChieseMarche\\MuseiChieseMarche.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T08:35:59.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
-              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
-              "RelativeToolTip": "MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T08:47:29.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwB0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T14:09:50.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Dockerfile",
               "RelativeDocumentMoniker": "MuseiChieseMarche\\Dockerfile",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Dockerfile",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Dockerfile",
               "RelativeToolTip": "MuseiChieseMarche\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-20T08:53:24.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElementoOsm.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
+              "RelativeDocumentMoniker": "MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
+              "RelativeToolTip": "MuseiChiese.Modelli\\Modelli\\ElementoOsm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:47:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
+              "RelativeToolTip": "MuseiChieseMarche\\Views\\Punti\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T08:47:29.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MuseiChieseMarche\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:36:33.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MuseiChieseMarche\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MuseiChieseMarche\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:43:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuseiChieseMarche.csproj",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
+              "RelativeDocumentMoniker": "MuseiChieseMarche\\MuseiChieseMarche.csproj",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
+              "RelativeToolTip": "MuseiChieseMarche\\MuseiChieseMarche.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T08:35:59.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MuseiChieseMarche\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T14:09:50.7Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "MuseiChiese.Modelli.csproj",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
               "RelativeDocumentMoniker": "MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
               "RelativeToolTip": "MuseiChiese.modelli\\MuseiChiese.Modelli.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-19T21:44:41.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T21:44:41.018Z"
             }
           ]
         },

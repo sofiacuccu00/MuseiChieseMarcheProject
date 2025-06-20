@@ -12,7 +12,7 @@ COPY . .
 WORKDIR "/src/MuseiChieseMarche"
 RUN dotnet build "./MuseiChieseMarche.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-# Questa fase viene usata per pubblicare il progetto di servizio da copiare nella fase finale
+
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
 RUN dotnet publish "./MuseiChieseMarche.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false

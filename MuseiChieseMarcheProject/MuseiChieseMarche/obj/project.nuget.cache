@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRq+gQheaIs=",
+  "dgSpecHash": "cwwfwSs5wNQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
+  "projectFilePath": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.5\\microsoft.aspnetcore.jsonpatch.8.0.5.nupkg.sha512",
     "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.5.nupkg.sha512",

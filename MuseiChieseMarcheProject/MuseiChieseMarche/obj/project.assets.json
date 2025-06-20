@@ -1777,11 +1777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
+      "projectUniqueName": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
       "projectName": "MuseiChieseMarche",
-      "projectPath": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
+      "projectPath": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\MuseiChieseMarche.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChieseMarche\\obj\\",
+      "outputPath": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChieseMarche\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1803,8 +1803,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\MuseiChiese.Modelli.csproj": {
-              "projectPath": "C:\\Users\\sofia\\source\\repos\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\MuseiChiese.Modelli.csproj"
+            "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\MuseiChiese.Modelli.csproj": {
+              "projectPath": "C:\\Users\\sofia\\Documents\\GitHub\\MuseiChieseMarcheProject\\MuseiChieseMarcheProject\\MuseiChiese.Modelli\\MuseiChiese.Modelli.csproj"
             }
           }
         }

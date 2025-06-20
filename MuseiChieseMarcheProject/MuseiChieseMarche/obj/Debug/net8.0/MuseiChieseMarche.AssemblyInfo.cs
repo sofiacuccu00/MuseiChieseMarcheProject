@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuseiChieseMarche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bfce7c166ea8d74fd9bd1af0bde843181392a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuseiChieseMarche")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuseiChieseMarche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
